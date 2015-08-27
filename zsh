@@ -27,18 +27,6 @@ alias mvne='mvn eclipse:clean eclipse:eclipse'
 alias mvni='mvn clean install -Dmaven.test.skip=true'
 
 
-alias sshtest2='ssh souche@115.29.10.121'
-alias sshtest='ssh souche@120.26.78.245'
-alias sshadu='ssh du@47.88.2.205'
-alias sshuke='ssh admin@121.43.107.189'
-alias sshubuntu='ssh root@ubuntu-womtj.proxy1.tenxcloud.net -p 42992'
-
-
-alias cdwine='cd /Users/du/gopath/src/todu.top/wine'
-
-
-
-
 
 
 
